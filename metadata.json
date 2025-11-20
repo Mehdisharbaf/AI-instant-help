@@ -1,0 +1,7 @@
+{
+  "name": "Live Lingua Echo",
+  "description": "Real-time voice conversation with instant transcription and text response in the detected language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
